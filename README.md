@@ -17,7 +17,6 @@ orientované na objektově orientované programování.
 - ▶ [Laracasts: SOLID Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 - ▶ [Laracasts: Design Patterns in PHP](https://laracasts.com/series/design-patterns-in-php)
 - ▶ [Laracasts: Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
-- ▶ [Laracasts: Object-Oriented Principles in PHP](https://laracasts.com/series/object-oriented-principles-in-php)
 - ▶ [Laracasts: 10 Techniques for Cleaner Code](https://laracasts.com/series/ten-techniques-for-cleaner-code)
 - ▶ [Laracasts: Whip Monstrous Code Into Shape](https://laracasts.com/series/whip-monstrous-code-into-shape)
 - ▶ [Youtube: SOLID principles by Uncle Bob Martin](https://www.youtube.com/watch?v=zHiWqnTWsn4)
